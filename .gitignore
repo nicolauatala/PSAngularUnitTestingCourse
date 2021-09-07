@@ -1,1 +1,5 @@
 node_modules
+/e2e/**
+/coverage/**
+/.DS_Store
+/.angulardoc.json
